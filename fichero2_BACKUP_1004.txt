@@ -1,0 +1,9 @@
+soy el fichero 2
+
+nuevo cambio
+
+<<<<<<< HEAD
+Cambio desde Sourcetree cambio1 sdfg asdfgsdhfdfh
+=======
+Cambio desde Sourcetree
+>>>>>>> parent of 4ceabf4 (conflicto 1)
